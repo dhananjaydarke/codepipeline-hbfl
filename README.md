@@ -1,5 +1,6 @@
 ## Demo Project for Practicing CI/CD with AWS CodePipeline
 
+
 This repository contains the demo project for the [Practicing CI/CD with AWS CodePipeline course on Pluralsight.com](http://www.pluralsight.com/courses/practicing-cicd-aws-codepipeline).
 
 ## Known Issues
